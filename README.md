@@ -14,9 +14,4 @@ O iotechControl é um dispositivo de comunicação em rede por fio através de p
 
 O dispositivo possui 7 portas físicas, conforme figura 1:
 
-
-
-
-
-
-Monitore e controle sua cerca eletrificadora, central de alarmes, portões eletrônicos e outros equipamentos via celular, sem a necessidade de atualizar seu produto. Seja notificado quando os principais eventos ocorrerem (ligado, desligado, violação, aberto, fechado...). Basta conectar as principais saídas de seu produto, baixar o aplicativo e cadastrar o código do dispositivo. Sem necessidade de servidores, infra estrutura local ou configurações avançadas de rede. 
+![Figura 1](pics/figura_1.png "Figura 1- Portas físicas de entrada e saída.")
