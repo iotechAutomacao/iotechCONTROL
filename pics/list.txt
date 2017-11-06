@@ -1,0 +1,3 @@
+Lista de figuras
+
+Figura 1 - Portas de entrada e saída do iotechControl v1.0
