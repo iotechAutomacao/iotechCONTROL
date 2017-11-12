@@ -28,6 +28,11 @@ O dispositivo possui 7 portas físicas, conforme figura 1:
 
 O dispositivo possui atualmente _firmwares_ em produção que monitoram 2 sinais digitais de estados e enviam 1 comando digital. A interpretação dos estados e comandos são feitos em nossos servidores, através de conexão autenticada e comunicação criptografada. Cada dispositivo possui um código de identificação único e é através dele que o usuário adiciona à sua lista de dispositivos no app da iotech.
 
-### Sinais de entrada
+## Exemplos de uso
 
-As duas portas digitais de entrada 
+Para o uso comum, seu equipamento deve possuir acesso a portas que possam transmitir os estados principais de operação e permitir acionamento.
+
+
+
+
+
