@@ -32,6 +32,7 @@ O dispositivo possui atualmente _firmwares_ em produção que monitoram 2 sinais
 
 Para o uso comum, seu equipamento deve possuir acesso a portas que possam transmitir os estados principais de operação e permitir acionamento.
 
+To be continued...
 
 
 
